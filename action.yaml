@@ -1,6 +1,6 @@
 name: 'GitHub Action for Codepush'
 author: 'Nishanth Shankar'
-description: 'Wraps the appcenter CLI to enable common commands.'
+description: 'Wraps the appcenter CLI to enable common commands - fixes node version issue.'
 branding:
   icon: 'package'
   color: 'gray-dark'
