@@ -1,5 +1,5 @@
-name: 'GitHub Action for Codepush'
-author: 'Nishanth Shankar'
+name: 'GitHub Action for Codepush - Node v Fix'
+author: 'Babalola Oluwaferanmi'
 description: 'Wraps the appcenter CLI to enable common commands - fixes node version issue.'
 branding:
   icon: 'package'
